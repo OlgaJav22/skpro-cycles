@@ -16,5 +16,11 @@ public class Main {
         for (int p = 0; p<17; p+=2) {
             System.out.println("Итерация цикла " + p);
         }
+
+        //задача 4
+
+        for (int x = 10; x>=-10; x--) {
+            System.out.println("Интерация цикла " + x);
+        }
     }
 }
